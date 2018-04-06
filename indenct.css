@@ -1,0 +1,84 @@
+.wangzhan .tao{background-color: #333;height: 40px;width: 100%;cursor: pointer;}
+.tao{width:1226px;height: 40px;margin: 0 auto;}
+.tao .dao {float: left;line-height: 40px;margin: 0 70px;text-align: center;color: #b0b0b0; font-size: 15px;}
+.tao .dao a{color: #b0b0b0;text-decoration: none;}
+.tao .dao a:hover{color: #fff;text-decoration:none;cursor: pointer;}
+
+.tao .dengright{float:right;line-height: 40px;text-align: center;color: #b0b0b0;cursor: pointer;}
+.tao .deng{float: left;}
+.wangzhan .tao .deng a{color: #b0b0b0;text-decoration: none;padding: 8px;}
+.wangzhan .tao .deng a:hover{
+    text-decoration: none;color: #fff
+}
+
+.wangzhan .tao .gou{float: right;margin-right: 30px;margin-left: 50px; height: 40px;width: 100px;background-color: #424242;text-align: center;line-height: 40px;}
+.wangzhan .tao .gou a{color: #b0b0b0;text-decoration: none;}
+.wangzhan .tao .gou a:hover{
+    text-decoration: none;color: #fff
+}
+.er{height: 100px;width:1228px;border-bottom:1px solid #424242;margin:0 auto;cursor: pointer;}
+.er .tu{float: left; margin-top: 20px;}
+.xuan{margin-left: 100px;}
+.er .xuan ul li{float: left;list-style-type: none;margin-left: 30px;color: #424242;line-height: 100px;text-align: center;font-size: 18px;}
+.er .sou{ float: left; border: 1px solid #f0f0f0;height: 50px;width: 300px;margin-top: 30px;margin-left: 80px}
+.er .sou .guanjianzi{outline: none;border: none;line-height: 49px;margin-left: 10px;border-right: 1px solid #f0f0f0;padding-right: 40px}
+.er .sou .go{float: right; line-height: 40px;text-align: center;font-size: 30px;font-weight: bold;border: 0px ;background-color: #fff;outline: none; margin-top: 10px;margin-right: 20px}
+
+.san{height: 460px;width:1228px;margin: 0 auto; margin-top: 10px; position: relative;cursor: pointer;}
+.san .cai{position:absolute;top:-10px;left: 0;background:rgba(0,0,0,0.8);height: 460px;width: 235px; z-index: 20; color: #fff;font-size: 15px;}
+.san .cai ul{list-style-type: none;margin: 20px;margin-top: 10px;}
+.san .cai ul li{margin-left: 10px;margin-top: 22px}
+.san .cai ul span{float: right;}
+.san .da{position: absolute;top: 0;left: 0;right: 0;bottom: 0;z-index: 10;}
+
+.kai{ height: 137px;width: 1228px;margin: 20px auto;cursor: pointer;}
+.kai .yihe{height:171px;width: 235px;background-color: #4b4a4a;float: left;font-size: 12px;}
+.kai .diyi{height: 76px;width: 226px;float: left;text-align: center;}
+.kai .dier{height: 76px;width: 226px;float: left;text-align: center;margin-bottom: 10px;margin-top: 10px;}
+.kai .yihe .yixiaohe,.erxiao,.sanxiao,.sixiao,.wuxiao,.liuxiao{border-right: solid #888888 1px;height: 60px;width: 70px;border-bottom:  solid #888888 1px;float: left;padding-top: 10px;border-left: solid #888888 1px;}
+.kai .yihe .yixiaohe,.erxiao,.sanxiao,.sixiao,.wuxiao,.liuxiao p{line-height: 30px}
+.kai .yihe .diyi .yixiaohe,.erxiao,.sanxiao{margin-bottom: 10px;margin-right:3px}
+.kai .yihe .dier .sixiao,.wuxiao,.liuxiao{margin-bottom: 10px;margin-right:3px}
+.kai .yihe .diyi  .yixiaohe a,.erxiao a,.sanxiao a{color: #fff;text-decoration: none}
+.kai .yihe .dier .sixiao a,.wuxiao a,.liuxiao a{color: #fff;text-decoration: none}
+
+.erhe{float: left;margin:0 12px;cursor: pointer;}
+.sanhe{float: left;margin-right:12px;cursor: pointer; }
+
+.ming{font-size: 25px;height: 55px;width: 1228px;float: left;margin-top: 10px;font-weight: 100;cursor: pointer;}
+.ming .pin{float: left;margin-left:55px}
+.ming .da,.xiao{float: right;height: 25px;width: 67px;border: 1px solid #88888888;text-align: center;line-height:20px;color: #888888;margin-top: 10px}
+.ming .duo{float:right;border-top:1px solid #88888888;hight:55px;width: 140px}
+
+.cai{height: 250px;width: 1228px;margin: 10px auto;cursor: pointer;}
+.cai .yi, .ban, .zeng, .quan, .tou{height:250px;width: 235px;float: left;background-color: rgb(228, 222, 222);border-top: 1px solid rgb(174, 248, 244);margin-right: 10px;text-align: center;padding-top: 75px}
+.cai .shi{font-size: 15px;color: #000}
+.cai .xian{font-size: 12px;color: #888888;margin-top: 5px;}
+
+.zhi{height: 400px;background-color: rgb(228, 222, 222);width: 1228px;margin: 3px auto;cursor: pointer;}
+.zhi .neng{margin-top: 200px;height:30px;width: 1228px; line-height: 30px;margin-left: 70px;font-size: 25px;font-weight: 100;padding-top: 50px}
+.jing{height: 350px;width: 1228px;margin: 10px auto;cursor: pointer;}
+.jing .kong{height:300px;width: 230px;float: left;background-color: rgb(255, 253, 253);border-top: 1px solid rgb(174, 248, 244);margin-right: 4px;text-align: center;margin-left: 8px;cursor: pointer;}
+.kong .wi{font-size: 15px;}
+.kong .xie{font-size: 12px;color: rgb(161, 144, 144);margin: 3px auto;}
+.kong .jia{font-size: 14px;color: rgb(255, 60, 0);margin-top: 3px}
+
+
+.dibu{margin: 0 auto;height: 460px;border: 1px solid rgb(228, 222, 222);background-color:rgb(228, 222, 222);margin-top: 6px;cursor: pointer;}
+.dishang{background-color: #fff;height: 380px;border: purple;margin-top: 80px}
+.dibuyi{height: 80px;width: 1228px;border-bottom: 1px solid rgb(161, 144, 144); margin: 0 auto}
+.dibuyi .xiu{float: left;height: 30px;width: 215px;border-right: 1px solid  rgb(161, 144, 144);margin:25px auto;text-align: center;font-size:17px;color:rgb(161, 144, 144); }
+.dibuer .bangzhu{height: 200px;width: 970px;margin-left: 70px;float: left}
+.dibuer .bangzhu ul{float: left;height: 230px;list-style-type: none; width:127px;text-align: left;margin-top: 50px;margin-left: 80px ;}
+.dibuer .bangzhu ul li a{text-decoration: none;font-size: 15px;color: rgb(197, 184, 184);line-height: 35px}
+.dibuer .bangzhu .zhongxin{font-size: 15x;color: #000;}
+.dibuer .ditu{height: 100px;width:228px;float: left;margin: 0 auto; margin-top:50px;border-left: 1px solid rgb(161, 144, 144);text-align: center}
+.dibuer .ditu .dianhua{color: rgb(255, 60, 0);margin-bottom: 5px}
+.ditu .rizi{font-size: 14px;margin-bottom: 5px}
+.ditu a{font-size: 14px;color: rgb(255, 60, 0);text-decoration: none;}
+.ditu .kefu{height:30px;width: 130px;border:1px solid rgb(255, 60, 0);margin-left: 40px;margin-top: 10px}
+.ditusan{height:63px;width: 1228px;margin: 0 auto;float: left;margin-top: 10px;margin-left: 40px}
+.ditusan .dami{float: left;margin: 10px}
+.miliao ul li{float: left;list-style-type: none;font-size: 12px;line-height: 40px;color:rgb(105, 88, 88); }
+.miliao .oo{margin: 0 5px}
+.wuwuwu{float: left;width: 1000px;font-size: 12px;color:rgb(105, 88, 88); }
